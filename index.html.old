@@ -108,7 +108,7 @@
         <header>
           <h2 align="center">Publications</h2>
         </header>
-        <font size="4"><strong>Relaxed Persist Ordering Using Strand Persistency</strong> (<a href="gogte-isca-20.pdf" target="_blank">paper</a><!--, <a href="isca-slides-20.pdf" target="_blank">slides</a>, <a href="gogte-isca-20.bib" target="_blank">bib</a> -->) <br \>
+        <font size="4"><strong>Relaxed Persist Ordering Using Strand Persistency</strong>  (to appear) <br \>
         <strong>Vaibhav Gogte</strong>, William Wang, Stephan Diestelhorst, Peter M. Chen, Satish Narayanasamy, Thomas F. Wenisch <br>
         47th International Symposium on Computer Architecture, Valencia, 2020 <strong>[ISCA-2020]</strong></font><br>
         <br>
